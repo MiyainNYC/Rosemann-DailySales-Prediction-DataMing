@@ -1,7 +1,9 @@
 # Rosemann-DailySales-Prediction-DataMing
 
 
-This is the first project fulfilled all by self during my first Graduate year majored in Business Analytics. Attempting to run multiple models upon the given data-set and exploring data through multi-dimension analysis, I finally made it to predict daily sales for over 1,000 Rossmann Drug stores in the period of two months and created a robust Prediction Model inserted in Excel using the Microsoft Azure Machine Learning Studio.
+###This is the first project fulfilled all by self during my first Graduate year majored in Business Analytics. 
+
+Attempting to run multiple models upon the given data-set and exploring data through multi-dimension analysis, I finally made it to predict daily sales for over 1,000 Rossmann Drug stores in the period of two months and created a robust Prediction Model inserted in Excel using the Microsoft Azure Machine Learning Studio.
 
 After doing the whole project, I achieved answering all the following questions:
 * What could greatly influence daily sales for a particular store? 
